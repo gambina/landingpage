@@ -1,0 +1,39 @@
+ul {
+  list-style-type: none;
+}
+
+.header {
+  background-color: #1f2937;
+  display: flexbox;
+  justify-content: space-around;
+}
+.heromain {
+  color: #f9faf8;
+  font-weight: 800;
+  font-size: 48px;
+}
+.herosecondary {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.button-mid {
+    background-color: #3882f6;
+}
+.button-text {
+  font-weight: 800;
+  color: #1f2937 ;
+  font-size: 36px;
+}
+
+.quote {
+  background-color: #e5e7eb;
+  font-size: 36px;
+  color: #1f2937 ;
+  font-style: italic;
+  font-weight: 300;
+}
